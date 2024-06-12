@@ -12,8 +12,7 @@ As the severity of climate change intensifies, comprehending public attitudes to
 TBD
 
 ## Dataset
-The dataset is collected from climate change-related tweets with the query hashtags. Overall, 70,412 climate change tweets were collected. <br>
-The dataset contains the tweet texts for climate change believers and deniers in Twitter.
+The dataset is collected from climate change-related tweets with the query hashtags. The dataset contains 70,412 tweet texts for climate change believers and deniers in Twitter.
 
 ## Reference
 TBD
