@@ -12,7 +12,6 @@ As the severity of climate change intensifies, comprehending public attitudes to
 TBD
 
 ## Dataset
-The dataset is collected from climate change-related tweets with the query hashtags. The dataset contains 70,412 tweet texts for climate change believers and deniers in Twitter.
-
+Our dataset comprises 70,412 climate change-related tweets collected from Twitter between January 1, 2022, and December 31, 2022, using specific denier and believer hashtags. Each tweet is labeled for stance detection as either "believe" or "deny" based on the used hashtags, with 49,006 tweets identified as denying climate change and 12,241 as believing. In addition, we assign sentiment labels in four categories: positive, negative, and neutral, using the VADER.
 ## Reference
 TBD
