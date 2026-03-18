@@ -17,7 +17,8 @@ git clone https://github.com/dxlabskku/SABER.git
 Our dataset comprises 61,247 climate change-related tweets collected from Twitter between January 1, 2022, and December 31, 2022, using specific denier and believer hashtags. Each tweet is labeled for stance detection as either "believe" or "deny" based on the used hashtags, with 49,006 tweets identified as denying climate change and 12,241 as believing. We assign sentiment labels in four categories: positive, negative, and neutral, using the VADER.
 
 ## Reference
-```@article{ahn2026saber,
+```
+@article{ahn2026saber,
   title={SABER: Integrating Sentiment and Stance Detection for Climate Change Discourse on Social Media},
   author={Ahn, Hyeongjin and Jeong, Dahye and Park, Eunil},
   journal={Knowledge-Based Systems},
